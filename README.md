@@ -1,4 +1,4 @@
-# Remote Sensing — NDVI Recovery & Land Cover Analysis
+# NDVI Recovery & Land Cover Analysis
 **Author:** Nazrina Haque | PhD Candidate, Oregon State University  
 **Tools:** Google Earth Engine (JavaScript) | R  
 **Satellite:** Copernicus Sentinel-2 SR Harmonized | USGS NLCD  
